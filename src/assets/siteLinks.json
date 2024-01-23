@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blong.rn-dgp08.xyz"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.rn-dgp08.xyz/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.rn-dgp08.xyz/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.rn-dgp08.xyz/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://web.rn-dgp.xyz/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.rn-dgp08.xyz/"
+  }
+]
